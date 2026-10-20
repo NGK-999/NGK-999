@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-minimalista.png" width="640" alt="Sistemas e automação." />
+  <img src="assets/banner-refinado.png" width="640" alt="Sistemas e automação." />
 </p>
 
 Projetos de suporte de TI, sistemas internos e automação de rotinas.
