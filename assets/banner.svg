@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sistemas, código e automação</title>
+  <desc id="desc">Capa azul noite com tipografia clara e ilustração discreta de um terminal e de um servidor, em tons de ciano.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1728" />
+      <stop offset="1" stop-color="#102b3a" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#46d9e9" />
+      <stop offset="1" stop-color="#46d9e9" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#77aec1" opacity=".12" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#background)" />
+  <rect x="724" y="1" width="475" height="318" rx="18" fill="url(#grid)" />
+  <path d="M1 18A17 17 0 0 1 18 1H1182A17 17 0 0 1 1199 18V302A17 17 0 0 1 1182 319H18A17 17 0 0 1 1 302Z" fill="none" stroke="#2c4b60" stroke-opacity=".6" />
+  <rect x="51" y="45" width="25" height="3" rx="1.5" fill="#46d9e9" />
+  <text x="89" y="51" fill="#8fb2c4" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.7">NGK-999 / PROJETOS</text>
+
+  <g fill="#f0f6fb" font-family="DejaVu Sans, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.4">
+    <text x="48" y="126">Sistemas, código</text>
+    <text x="48" y="183">e automação<tspan fill="#46d9e9">.</tspan></text>
+  </g>
+  <text x="51" y="225" fill="#a1b6c9" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" letter-spacing=".15">Ferramentas práticas. Aprendizado em cada projeto.</text>
+  <rect x="51" y="255" width="552" height="1" fill="url(#accent)" opacity=".5" />
+  <text x="51" y="282" fill="#7596ae" font-family="DejaVu Sans Mono, monospace" font-size="11" letter-spacing="2.1">APLICAÇÕES / INFRAESTRUTURA / VISUALIZAÇÃO</text>
+
+  <g fill="none" stroke="#325568" stroke-width="1.5" opacity=".7">
+    <path d="M807 70H759V130H705" />
+    <path d="M957 262H1068V226" />
+    <path d="M1068 90V53H1146" />
+    <circle cx="705" cy="130" r="3" fill="#325568" />
+    <circle cx="1146" cy="53" r="3" fill="#325568" />
+  </g>
+
+  <g transform="translate(995 97)">
+    <rect width="139" height="131" rx="10" fill="#0e2133" stroke="#375b70" />
+    <rect x="15" y="17" width="109" height="26" rx="4" fill="#162f42" stroke="#294a5f" />
+    <rect x="15" y="53" width="109" height="26" rx="4" fill="#162f42" stroke="#294a5f" />
+    <rect x="15" y="89" width="109" height="26" rx="4" fill="#162f42" stroke="#294a5f" />
+    <g stroke="#678fa5" stroke-width="2">
+      <path d="M27 27H69M27 33H57M27 63H69M27 69H57M27 99H69M27 105H57" />
+    </g>
+    <g fill="#46d9e9">
+      <circle cx="108" cy="30" r="3" />
+      <circle cx="108" cy="66" r="3" opacity=".7" />
+      <circle cx="108" cy="102" r="3" opacity=".4" />
+    </g>
+  </g>
+
+  <g transform="translate(770 72)">
+    <rect x="8" y="9" width="252" height="177" rx="11" fill="#06101c" opacity=".42" />
+    <rect width="252" height="177" rx="11" fill="#0b192a" stroke="#4f7b90" stroke-width="1.2" />
+    <path d="M1 34H251" stroke="#294659" />
+    <circle cx="17" cy="17" r="3" fill="#4c748a" />
+    <circle cx="29" cy="17" r="3" fill="#4c748a" />
+    <circle cx="41" cy="17" r="3" fill="#4c748a" />
+    <text x="233" y="21" text-anchor="end" fill="#678fa5" font-family="DejaVu Sans Mono, monospace" font-size="9" letter-spacing="1.6">WORKSPACE</text>
+    <path d="M24 60L32 67L24 74" fill="none" stroke="#46d9e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="43" y="64" width="111" height="5" rx="2.5" fill="#88aec3" opacity=".85" />
+    <rect x="24" y="87" width="164" height="4" rx="2" fill="#2e5067" />
+    <rect x="24" y="100" width="138" height="4" rx="2" fill="#2e5067" />
+    <rect x="24" y="113" width="153" height="4" rx="2" fill="#2e5067" />
+    <path d="M24 142L32 149L24 156" fill="none" stroke="#46d9e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="43" y="145" width="8" height="9" rx="1" fill="#46d9e9" opacity=".85" />
+    <circle cx="224" cy="149" r="3" fill="#46d9e9" opacity=".6" />
+  </g>
+</svg>

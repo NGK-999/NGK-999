@@ -1,28 +1,48 @@
-# Igor Lopes da Silva
+<p align="center">
+  <img src="assets/banner.svg" width="1200" alt="Sistemas, código e automação — projetos de aplicações, infraestrutura e visualização." />
+</p>
 
-Assistente de TI em ambiente industrial, com atuação em suporte a sistemas, infraestrutura e automação de rotinas.
+Ferramentas para entender sistemas, automatizar tarefas e transformar ideias em aplicações. Aprendizado por projetos, com atenção à documentação e ao funcionamento de cada solução.
 
-Curso Engenharia de Computação na Universidade Cruzeiro do Sul, com previsão de conclusão em fevereiro de 2029. Trabalho na Branyl desde outubro de 2023.
+## Projetos em destaque
 
-## Atuação e estudos
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · ApexTweaker</h3>
+      <p>Diagnóstico e telemetria para Windows, com interface desktop e ajustes reversíveis.</p>
+      <p><sub>C# · .NET · WPF</sub></p>
+      <a href="https://github.com/NGK-999/tweaker"><strong>Explorar projeto →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Monitor de Sinais</h3>
+      <p>Visualização local de sinais musculares, com simulador, recepção serial e gráficos interativos.</p>
+      <p><sub>Python · Qt · Comunicação serial</sub></p>
+      <a href="https://github.com/NGK-999/InterfaceNeural"><strong>Explorar projeto →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · coolleo-display-linux</h3>
+      <p>Suporte experimental para enviar temperatura e potência da CPU a um display USB específico no Linux.</p>
+      <p><sub>Python · Shell · Linux · USB HID</sub></p>
+      <a href="https://github.com/NGK-999/coolleo-display-linux"><strong>Explorar projeto →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Horizonte</h3>
+      <p>Experimento de visualização de um buraco negro no navegador, com câmera livre e efeitos procedurais.</p>
+      <p><sub>TypeScript · Three.js · WebGL</sub></p>
+      <a href="https://github.com/NGK-999/horizonte-buraco-negro"><strong>Explorar projeto →</strong></a>
+    </td>
+  </tr>
+</table>
 
-- Suporte presencial e remoto, manutenção de estações e atendimento a usuários.
-- Sustentação de ERP e apoio à administração de Windows Server, Active Directory e Hyper-V.
-- Conhecimentos básicos em JavaScript e estudos em C#, C++ e SQL.
-- Desenvolvimento de utilitários e automações com apoio de ferramentas de IA.
+## Conhecimentos e prática
 
-## Projetos públicos
+| Área | Foco |
+| :--- | :--- |
+| **Tecnologias presentes nos projetos** | C#, .NET, WPF, Python, Qt, TypeScript, Three.js, WebGL e Shell. |
+| **Suporte e infraestrutura** | Suporte a usuários e sistemas, Windows Server, Active Directory e Hyper-V. |
+| **Fundamentos em estudo e prática** | JavaScript, C++ e SQL. |
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [ApexTweaker](https://github.com/NGK-999/tweaker) | Aplicação Windows para diagnóstico e ajustes reversíveis, com interface desktop. | C#, .NET, WPF |
-| [Monitor de Sinais Musculares](https://github.com/NGK-999/InterfaceNeural) | Aplicação local com simulador, recepção serial e visualização de sinais. | Python |
-| [coolleo-display-linux](https://github.com/NGK-999/coolleo-display-linux) | Projeto experimental de telemetria para um display USB de temperatura e potência da CPU. | Python, Shell, Linux |
-
-## Cursos concluídos
-
-- [Aprenda JAVASCRIPT em 7 dias + Projetos Reais](https://ude.my/UC-a8e8cfa4-a145-43a5-927f-e2bd8927faf2) — Udemy, 8 h, março de 2025.
-- [Aprendendo programação básica e avançada com Linguagem C++](https://ude.my/UC-2abcf380-173d-4ed2-bfba-499532eac90c) — Udemy, 20,5 h, outubro de 2026.
-- [Administração de Redes com Windows Server 2019](https://ude.my/UC-48cfac85-9d11-4757-895b-5ef169b3506d) — Udemy, 3,5 h, abril de 2024.
-
-[LinkedIn](https://www.linkedin.com/in/igor-lopes-7a0949336/)
+<sub>Desenvolvimento e aprendizado com apoio de ferramentas de IA.</sub>
