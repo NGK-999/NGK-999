@@ -6,8 +6,6 @@
 
 Experiência interativa de um buraco negro, com câmera livre, matéria procedural e controles de apresentação.
 
-![Diagrama do fluxo: ajustar a câmera, calcular trajetórias, compor a cena e explorar.](../../assets/projetos/horizonte.svg)
-
 ## Objetivo
 
 Explorar renderização no navegador a partir de um modelo de Schwarzschild, conectando cálculo de trajetórias, composição visual e interação. A experiência combina um modelo óptico com escolhas artísticas para a matéria e a emissão.

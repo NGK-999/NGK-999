@@ -6,8 +6,6 @@
 
 Diagnóstico, telemetria e ajustes reversíveis reunidos em uma interface para explorar configurações do Windows e preparar ambientes de Minecraft.
 
-![Diagrama do fluxo: diagnosticar, preparar, avaliar e restaurar.](../../assets/projetos/apextweaker.svg)
-
 ## Objetivo
 
 Dar contexto às alterações de configuração: observar o computador, escolher um ajuste e ter um caminho de restauração. O projeto inclui um modo demonstração para explorar a interface sem modificar o Windows.

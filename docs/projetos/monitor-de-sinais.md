@@ -6,8 +6,6 @@
 
 Visualização local da amplitude de sinais ao longo do tempo, com simulador ajustável, entrada serial e controles de exploração do gráfico.
 
-![Diagrama do fluxo: selecionar a fonte, adquirir amostras, explorar e analisar.](../../assets/projetos/monitor-de-sinais.svg)
-
 ## Objetivo
 
 Tornar um fluxo de amostras compreensível em uma interface: acompanhar a curva, observar estatísticas e identificar estados de conexão. O simulador permite explorar o aplicativo sem depender de uma placa física.

@@ -6,8 +6,6 @@
 
 Serviço que obtém temperatura e potência de uma CPU Intel no Linux e envia esses valores a um modelo específico de display USB.
 
-![Diagrama do fluxo: ler sensores, preparar dados, validar o dispositivo e enviar por USB.](../../assets/projetos/coolleo-display-linux.svg)
-
 ## Objetivo
 
 Explorar a integração de um display de telemetria com Linux, usando os sensores do sistema e o protocolo USB observado no dispositivo. O suporte é restrito ao hardware documentado pelo projeto.
