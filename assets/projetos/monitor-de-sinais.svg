@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Monitor de Sinais — Diagrama do fluxo</title>
+<desc id="desc">Da fonte de amostras à exploração do gráfico. Fluxo: Selecionar → Adquirir → Explorar → Analisar.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1728"/><stop offset="1" stop-color="#102b3a"/></linearGradient></defs>
+<rect width="1200" height="675" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="673" rx="21" fill="none" stroke="#2b4a5e"/>
+<path d="M56 58H86" stroke="#46d9e9" stroke-width="4" stroke-linecap="round"/>
+<text x="100" y="64" fill="#8fb2c4" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" letter-spacing="2">DIAGRAMA DO FLUXO</text>
+<text x="1144" y="64" text-anchor="end" fill="#7596ae" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" letter-spacing="1.6">DESKTOP / SINAIS</text>
+<text x="53" y="142" fill="#f0f6fb" font-family="DejaVu Sans, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">Monitor de Sinais</text>
+<text x="56" y="187" fill="#a1b6c9" font-family="DejaVu Sans, Arial, sans-serif" font-size="22">Da fonte de amostras à exploração do gráfico</text>
+<rect x="56" y="267" width="260" height="187" rx="14" fill="#102438" stroke="#375b70"/>
+<text x="78" y="307" fill="#46d9e9" font-family="DejaVu Sans Mono, monospace" font-size="17" letter-spacing="1.5">01</text>
+<text x="78" y="363" fill="#f0f6fb" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600">Selecionar</text>
+<text x="78" y="405" fill="#a1b6c9" font-family="DejaVu Sans, Arial, sans-serif" font-size="18">Simulador ou serial</text>
+<path d="M319 357H328M324 352L329 357L324 362" fill="none" stroke="#46d9e9" stroke-width="1.7"/>
+<rect x="332" y="267" width="260" height="187" rx="14" fill="#102438" stroke="#375b70"/>
+<text x="354" y="307" fill="#46d9e9" font-family="DejaVu Sans Mono, monospace" font-size="17" letter-spacing="1.5">02</text>
+<text x="354" y="363" fill="#f0f6fb" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600">Adquirir</text>
+<text x="354" y="405" fill="#a1b6c9" font-family="DejaVu Sans, Arial, sans-serif" font-size="18">Leitura das amostras</text>
+<path d="M595 357H604M600 352L605 357L600 362" fill="none" stroke="#46d9e9" stroke-width="1.7"/>
+<rect x="608" y="267" width="260" height="187" rx="14" fill="#102438" stroke="#375b70"/>
+<text x="630" y="307" fill="#46d9e9" font-family="DejaVu Sans Mono, monospace" font-size="17" letter-spacing="1.5">03</text>
+<text x="630" y="363" fill="#f0f6fb" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600">Explorar</text>
+<text x="630" y="405" fill="#a1b6c9" font-family="DejaVu Sans, Arial, sans-serif" font-size="18">Pausa visual e zoom</text>
+<path d="M871 357H880M876 352L881 357L876 362" fill="none" stroke="#46d9e9" stroke-width="1.7"/>
+<rect x="884" y="267" width="260" height="187" rx="14" fill="#102438" stroke="#375b70"/>
+<text x="906" y="307" fill="#46d9e9" font-family="DejaVu Sans Mono, monospace" font-size="17" letter-spacing="1.5">04</text>
+<text x="906" y="363" fill="#f0f6fb" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600">Analisar</text>
+<text x="906" y="405" fill="#a1b6c9" font-family="DejaVu Sans, Arial, sans-serif" font-size="18">Estatísticas e estado</text>
+<path d="M56 511H1144" stroke="#325568"/>
+<text x="56" y="551" fill="#b4c9d7" font-family="DejaVu Sans, Arial, sans-serif" font-size="19">Simulador disponível; integração física ainda não validada.</text>
+<text x="56" y="612" fill="#7596ae" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Esquema de funcionamento · não é uma captura de tela.</text>
+<text x="1144" y="612" text-anchor="end" fill="#46d9e9" font-family="DejaVu Sans Mono, monospace" font-size="15" letter-spacing="2">NGK-999 / PROJETOS</text>
+</svg>

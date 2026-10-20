@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" width="1200" alt="Sistemas, código e automação — projetos de aplicações, infraestrutura e visualização." />
 </p>
 
-Portfólio de aplicações desktop, integração com hardware e visualização no navegador. Projetos para explorar problemas práticos, com código, documentação e limites de validação disponíveis em cada repositório.
+Aplicações desktop, integração com hardware e visualização no navegador. Quatro projetos com apresentações sobre objetivo, funcionamento, decisões técnicas e validação.
 
 ## Projetos em destaque
 
@@ -10,33 +10,37 @@ Portfólio de aplicações desktop, integração com hardware e visualização n
   <tr>
     <td width="50%" valign="top">
       <h3>01 · ApexTweaker</h3>
-      <p>Reúne diagnóstico de hardware, telemetria e ajustes do Windows em uma interface desktop. Inclui modo demonstração e recursos de backup e restauração.</p>
-      <p><strong>Aplicação Windows</strong> · ajustes reversíveis e preparação de Minecraft.</p>
+      <p><a href="docs/projetos/apextweaker.md"><img src="assets/projetos/apextweaker.svg" alt="Diagrama do fluxo do ApexTweaker: diagnosticar, preparar, avaliar e restaurar." /></a></p>
+      <p>Diagnóstico e ajustes reversíveis do Windows, com telemetria, modo demonstração e recursos para Minecraft.</p>
       <p><sub>C# · .NET · WPF</sub></p>
-      <p><a href="https://github.com/NGK-999/tweaker"><strong>Código →</strong></a> · <a href="https://github.com/NGK-999/tweaker/blob/main/docs/README.md">Documentação</a></p>
+      <p><a href="docs/projetos/apextweaker.md"><strong>Conhecer projeto →</strong></a></p>
+      <p><a href="https://github.com/NGK-999/tweaker">Código</a> · <a href="https://github.com/NGK-999/tweaker/blob/main/docs/README.md">Documentação</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>02 · Monitor de Sinais</h3>
-      <p>Aplicativo local para acompanhar a amplitude de sinais ao longo do tempo. Oferece simulador ajustável, recepção serial NDJSON, zoom e estatísticas.</p>
-      <p><strong>Simulador disponível</strong> · validação com hardware pendente.</p>
+      <p><a href="docs/projetos/monitor-de-sinais.md"><img src="assets/projetos/monitor-de-sinais.svg" alt="Diagrama do fluxo do Monitor de Sinais: selecionar a fonte, adquirir amostras, explorar e analisar." /></a></p>
+      <p>Simulador e visualização local de sinais com entrada serial. Validação com hardware físico pendente.</p>
       <p><sub>Python · Qt · Comunicação serial</sub></p>
-      <p><a href="https://github.com/NGK-999/InterfaceNeural"><strong>Código →</strong></a> · <a href="https://github.com/NGK-999/InterfaceNeural/blob/main/docs/verificacao.md">Validação</a></p>
+      <p><a href="docs/projetos/monitor-de-sinais.md"><strong>Conhecer projeto →</strong></a></p>
+      <p><a href="https://github.com/NGK-999/InterfaceNeural">Código</a> · <a href="https://github.com/NGK-999/InterfaceNeural/blob/main/docs/verificacao.md">Validação</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>03 · coolleo-display-linux</h3>
-      <p>Lê temperatura e potência de CPUs Intel no Linux e envia os dados a um display USB específico, por um serviço systemd.</p>
-      <p><strong>Experimental</strong> · comunicação testada em uma unidade; conferência dos valores no display pendente.</p>
+      <p><a href="docs/projetos/coolleo-display-linux.md"><img src="assets/projetos/coolleo-display-linux.svg" alt="Diagrama do fluxo do coolleo-display-linux: ler sensores, preparar dados, validar o dispositivo e enviar por USB." /></a></p>
+      <p>Telemetria de CPU Intel para um display USB no Linux. Projeto experimental, com suporte a um dispositivo específico.</p>
       <p><sub>Python · Shell · Linux · USB HID</sub></p>
-      <p><a href="https://github.com/NGK-999/coolleo-display-linux"><strong>Código →</strong></a> · <a href="https://github.com/NGK-999/coolleo-display-linux/blob/main/README.pt-BR.md">Guia em português</a></p>
+      <p><a href="docs/projetos/coolleo-display-linux.md"><strong>Conhecer projeto →</strong></a></p>
+      <p><a href="https://github.com/NGK-999/coolleo-display-linux">Código</a> · <a href="https://github.com/NGK-999/coolleo-display-linux/blob/main/README.pt-BR.md">Guia em português</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>04 · Horizonte</h3>
-      <p>Visualização interativa de um buraco negro no navegador, com câmera livre, shaders e matéria procedural. Explora renderização a partir do modelo de Schwarzschild.</p>
-      <p><strong>Demonstração técnica</strong> · execução local e qualidade dependente da GPU.</p>
+      <p><a href="docs/projetos/horizonte.md"><img src="assets/projetos/horizonte.svg" alt="Diagrama do fluxo do Horizonte: ajustar a câmera, calcular trajetórias, compor a cena e explorar." /></a></p>
+      <p>Demonstração interativa de um buraco negro no navegador, com câmera livre e matéria procedural.</p>
       <p><sub>TypeScript · Three.js · WebGL</sub></p>
-      <p><a href="https://github.com/NGK-999/horizonte-buraco-negro"><strong>Código →</strong></a> · <a href="https://github.com/NGK-999/horizonte-buraco-negro#executar-localmente">Como executar</a></p>
+      <p><a href="docs/projetos/horizonte.md"><strong>Conhecer projeto →</strong></a></p>
+      <p><a href="https://github.com/NGK-999/horizonte-buraco-negro">Código</a> · <a href="https://github.com/NGK-999/horizonte-buraco-negro#executar-localmente">Como executar</a></p>
     </td>
   </tr>
 </table>
@@ -48,6 +52,6 @@ Portfólio de aplicações desktop, integração com hardware e visualização n
 | **Tecnologias presentes nos projetos** | C#, .NET, WPF, Python, Qt, TypeScript, Three.js, WebGL e Shell. |
 | **Aplicações práticas** | Interfaces desktop, leitura serial, telemetria, integração USB e visualização interativa. |
 | **Suporte e infraestrutura** | Suporte a usuários e sistemas, Windows Server, Active Directory e Hyper-V. |
-| **Fundamentos em estudo e prática** | JavaScript, C++ e SQL. |
+| **Programação manual básica** | Fundamentos de JavaScript, C++ e SQL, em estudo e prática. |
 
-<sub>Desenvolvimento e aprendizado com apoio de ferramentas de IA.</sub>
+<sub>Projetos desenvolvidos com apoio de ferramentas de IA. As tecnologias dos repositórios descrevem o que foi utilizado; o domínio de programação está em desenvolvimento.</sub>
