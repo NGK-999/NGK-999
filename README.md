@@ -52,6 +52,6 @@ Aplicações desktop, integração com hardware e visualização no navegador. Q
 | **Tecnologias presentes nos projetos** | C#, .NET, WPF, Python, Qt, TypeScript, Three.js, WebGL e Shell. |
 | **Aplicações práticas** | Interfaces desktop, leitura serial, telemetria, integração USB e visualização interativa. |
 | **Suporte e infraestrutura** | Suporte a usuários e sistemas, Windows Server, Active Directory e Hyper-V. |
-| **Programação manual básica** | Fundamentos de JavaScript, C++ e SQL, em estudo e prática. |
+| **Fundamentos em estudo e prática** | JavaScript, C++ e SQL. |
 
-<sub>Projetos desenvolvidos com apoio de ferramentas de IA. As tecnologias dos repositórios descrevem o que foi utilizado; o domínio de programação está em desenvolvimento.</sub>
+<sub>Desenvolvimento e aprendizado com apoio de ferramentas de IA.</sub>
